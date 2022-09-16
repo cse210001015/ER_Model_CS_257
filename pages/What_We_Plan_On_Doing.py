@@ -1,0 +1,3 @@
+import streamlit as st
+st.title("What we Plan on Doing")
+st.header("We will be making a system that will help the organization to take voting for any decision they want to make. For example, in our IIT, if a new CR is to be elected for a batch or a new President for the entire Gymkhana is to be elected, then the system would be able to do that. Not only that, if someone wants to make a decision based on reviews of others, like having some extra batch class, then he would be able to do that. The system will be easy to use, like google forms.")
